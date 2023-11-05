@@ -1,0 +1,18 @@
+.corpo {
+
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    
+}
+
+.scrittalogo {
+    color: #00A9FF;
+    padding-left: 700px;
+    font-size: xx-large;
+    font-weight: 900;
+}
